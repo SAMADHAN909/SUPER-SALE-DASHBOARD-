@@ -20,6 +20,10 @@ This project highlights **Sales**, **Profit**, and **Orders** trends across mult
 - **DAX** – Calculated measures & KPIs  
 - **Data Modeling** – Relationships & cleaning  
 
----
+--- Contact
+🔗 Connect With Me [ SAMADHAN AHIRE ]
+ LINKDIN :- [ https://lnkd.in/dTCQMmW3 ]
+ GITHUB :- [ https://lnkd.in/dC_4kVxM ]
+Email: [samadhan0325@gmail.com]
 
 ## 📂 Project Structure# SUPER-SALE-DASHBOARD-
